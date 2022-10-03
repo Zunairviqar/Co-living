@@ -9,8 +9,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
-  color: #444444;
+  font-family: myFirstFont;
+  color: #082c51;
 }
 
 a {
@@ -29,7 +29,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: myFirstFont;
 }
 
 @font-face {
@@ -135,7 +135,7 @@ h6 {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-family: "Poppins", sans-serif;
+  font-family: myFirstFont;
   font-size: 15px;
   font-weight: 500;
   color: #ffffff;
@@ -643,13 +643,12 @@ section {
   font-size: 48px;
   line-height: 60px;
   margin-bottom: 20px;
-  text-transform: uppercase;
 }
 
 .about .content h3 {
   font-weight: 500;
   line-height: 32px;
-  font-size: 24px;
+  font-size: 20px;
 }
 
 .about .content ul {
